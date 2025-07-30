@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=AI+Engineer+%E2%80%A2+UI%2FUX+Designer;Innovation+Catalyst;Transforming+ideas+into+intelligent+experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Frontend+Developer+%E2%80%A2+UI%2FUX+Designer;Innovation+Catalyst;Transforming+ideas+into+intelligent+experiences" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -17,7 +17,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://linkedin.com/in/krushnarathod0077">
+  <a href="https://linkedin.com/in/krushna-rathod0077">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=bounce" alt="LinkedIn"/>
   </a>
   <a href="mailto:krushnarathod0077@gmail.com">
