@@ -241,7 +241,7 @@ I'm always excited to connect with fellow innovators, whether you're:
 <a href="mailto:krushnarathod0077@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://linkedin.com/in/krushnarathod0077">
+<a href="https://linkedin.com/in/krushna-rathod0077">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
