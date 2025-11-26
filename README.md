@@ -181,10 +181,10 @@ I'm a passionate technologist at the intersection of **artificial intelligence**
 <img src="https://skillicons.dev/icons?i=python,js,typescript,dart,cpp,java" />
 
 ### Frontend Development
-<img src="https://skillicons.dev/icons?i=react,vue,nextjs,flutter,html,css,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,vue,flutter,html,css,tailwind,bootstrap" />
 
 ### Backend Development  
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,mongodb,firebase,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,firebase,mysql" />
 
 ### AI/ML & Data Science
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
@@ -194,10 +194,10 @@ I'm a passionate technologist at the intersection of **artificial intelligence**
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 
 ### Design Tools
-<img src="https://skillicons.dev/icons?i=figma,xd,ps,ai" />
+<img src="https://skillicons.dev/icons?i=figma,ps" />
 
 ### Development Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,gcp" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,aws" />
 
 </div>
 
