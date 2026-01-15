@@ -57,23 +57,15 @@ I'm a passionate technologist at the intersection of **artificial intelligence**
 <tr>
 <td width="50%">
 
+
 ### 🤖 **AI & Machine Learning**
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-
-- Deep Learning architectures and neural networks
-- Computer Vision and Natural Language Processing  
-- Data Analytics and Predictive Modeling
-- MLOps and model deployment strategies
-
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
 </td>
 <td width="50%">
 
-### 🎨 **Design & User Experience** <img src="https://skillicons.dev/icons?i=figma,xd,ps" />
+### 🎨 **Design & User Experience** 
+<img src="https://skillicons.dev/icons?i=figma,ps" />
 
-- User Research & Behavioral Analysis
-- Information Architecture & Wireframing
-- Prototyping & Usability Testing
-- Design Systems & Brand Identity
 
 </td>
 </tr>
@@ -81,23 +73,13 @@ I'm a passionate technologist at the intersection of **artificial intelligence**
 <td width="50%">
 
 ### 💻 **Frontend Development**
-<img src="https://skillicons.dev/icons?i=react,vue,flutter,html,css,js" />
-
-- React, Vue.js, Flutter, React Native
-- Responsive Design & Progressive Web Apps
-- Modern JavaScript & TypeScript
-- Cross-platform Development
+<img src="https://skillicons.dev/icons?i=react,html,css,js" />
 
 </td>
 <td width="50%">
 
 ### ⚡ **Backend & Database**
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-
-- Node.js, Express, MongoDB, Firebase
-- RESTful APIs & GraphQL
-- Real-time systems & WebSockets
-- Cloud deployment & scaling
+<img src="https://skillicons.dev/icons?i=nodejs,spring,maven,mongodb,firebase,mysql" />
 
 </td>
 </tr>
@@ -132,8 +114,7 @@ I'm a passionate technologist at the intersection of **artificial intelligence**
 
 ### 🎓 **Professional Development**
 - **🏅 Young Professional Course Graduate**
-- **💬 Advanced Communication Skills Certification**
-- **⭐ Phase II COM Program Excellence Award**
+- **⭐ Meta Phase II COM Program Excellence Award**
 
 ---
 
@@ -177,26 +158,25 @@ I'm a passionate technologist at the intersection of **artificial intelligence**
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=python,js,typescript,dart,cpp,java" />
+<img src="https://skillicons.dev/icons?i=python,js,cpp,java" />
 
 ### Frontend Development
-<img src="https://skillicons.dev/icons?i=react,vue,flutter,html,css,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
 
 ### Backend Development  
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,firebase,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,spring,maven,mongodb,firebase,mysql" />
 
 ### AI/ML & Data Science
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
+<img src="https://skillicons.dev/icons?i=python" />
 <br>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 
 ### Design Tools
 <img src="https://skillicons.dev/icons?i=figma,ps" />
 
 ### Development Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,aws" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </div>
 
