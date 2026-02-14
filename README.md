@@ -1,50 +1,92 @@
-# Krushna Rathod
+<h1 align="center">Krushna Rathod</h1>
 
-AI & Data Science Student | Frontend Developer | UI/UX Enthusiast  
-Nagpur, Maharashtra, India  
+<p align="center">
+AI & Data Science Student • Frontend Developer • UI/UX Enthusiast  
+<br>
+Nagpur, India
+</p>
+
+<p align="center">
+<a href="mailto:krushnarathod0077@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/krushna-rathod0077">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/krushna1133">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
 
 ## About Me
-I am a B.Tech student in Artificial Intelligence & Data Science focused on building practical AI systems and clean user interfaces.  
-I enjoy working on real-world projects, hackathons, and open-source collaboration.
+I am a B.Tech student in **Artificial Intelligence & Data Science** who enjoys building  
+real-world AI solutions and clean, user-friendly interfaces.
+
+- Interested in **AI, Web Development, and UI/UX**
+- Active in **hackathons and internships**
+- Focused on **practical projects that solve real problems**
 
 ---
 
-## Skills
-**Languages:** Python, JavaScript, Java, C++  
-**Frontend:** React, HTML, CSS, Tailwind  
-**Backend:** Node.js, Spring Boot, MySQL, MongoDB  
-**AI/ML:** NumPy, Pandas, TensorFlow (basics)  
-**Tools:** Git, GitHub, VS Code, Figma  
+## Tech Stack
+
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,java,cpp" />
+</p>
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</p>
+
+### Backend & Database
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,spring,mysql,mongodb,firebase" />
+</p>
+
+### Tools & Design
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
 
 ---
 
 ## Projects
 - Forest Fire Detection using Deep Learning  
-- AI Chatbot with NLP  
+- AI NLP Chatbot  
 - Food Waste Management App  
 - Attendance Management Mobile App  
 
 ---
 
 ## Achievements
-- Hackathon Winner – ENIGMA  
-- Champion – Yash 25.0  
-- Multiple AI/ML internships completed  
+- 🏆 ENIGMA Hackathon Winner  
+- 🥇 Yash 25.0 Champion  
+- 🎓 Multiple AI/ML Internships Completed  
 
 ---
 
 ## GitHub Stats
-![Krushna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krushna1133&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krushna1133&layout=compact)
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=krushna1133&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krushna1133&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=krushna1133&theme=tokyonight"/>
+</p>
 
 ---
 
-## Contact
-Email: krushnarathod0077@gmail.com  
-LinkedIn: https://linkedin.com/in/krushna-rathod0077  
+## Quote
+> Build real skills. Ship real projects. Ignore noise.
 
 ---
 
-*Focused on learning, building, and improving every day.*
+<p align="center">
+⭐ If you like my work, consider following me.
+</p>
