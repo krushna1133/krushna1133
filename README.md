@@ -71,6 +71,7 @@ Focused on practical learning, hackathons, and shipping working products — not
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=krushna1133&theme=tokyonight&cache_seconds=1"/>
 </p>
+
 ---
 
 ## Philosophy
