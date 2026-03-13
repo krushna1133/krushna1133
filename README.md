@@ -72,7 +72,7 @@ Focused on practical learning, hackathons, and shipping working products — not
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🔥%20Longest%20Streak-29%20Days-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🔥%20Longest%20Streak-31%20Days-blue?style=for-the-badge"/>
 </p>
 
 ---
