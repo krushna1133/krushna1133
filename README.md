@@ -67,9 +67,12 @@ Focused on practical learning, hackathons, and shipping working products — not
 <img src="https://github-readme-stats.vercel.app/api?username=krushna1133&show_icons=true&theme=tokyonight" height="170"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krushna1133&layout=compact&theme=tokyonight" height="170"/>
 </p>
+<p align="center">
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=krushna1133&theme=tokyonight&cache_seconds=1800"/> -->
+</p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=krushna1133&theme=tokyonight&cache_seconds=1800"/>
+  <img src="https://img.shields.io/badge/🔥%20Longest%20Streak-29%20Days-blue?style=for-the-badge"/>
 </p>
 
 ---
